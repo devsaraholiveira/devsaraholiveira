@@ -1,4 +1,4 @@
-## Oi, eu sou a Sarah Malheiros, desenvolvedora web trainee!
+## Oiii, eu sou a Sarah Malheiros, desenvolvedora web trainee!
 <div align="center">
   <a href="https://github.com/sarahmalheiros">
   <img width="45%"src="https://github-readme-stats.vercel.app/api?username=sarahmalheiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
