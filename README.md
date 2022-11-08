@@ -1,8 +1,8 @@
 ## Oiii, eu sou a Sarah Malheiros, desenvolvedora web trainee!
 <div align="center">
-  <a href="https://github.com/sarahmalheiros">
-  <img width="45%"src="https://github-readme-stats.vercel.app/api?username=sarahmalheiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmalheiros&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/devsarahmalheiros">
+  <img width="45%"src="https://github-readme-stats.vercel.app/api?username=devsarahmalheiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarahmalheiros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
