@@ -24,3 +24,6 @@
   ![Snake animation](https://github.com/sarahmalheiros/sarahmalheiros/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<a href="https://github.com/devsarahmalheiros/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=portfolio&theme=vision-friendly-dark" />
+</a>
