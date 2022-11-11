@@ -25,8 +25,8 @@
  
 </div>
 <a href="https://github.com/devsarahmalheiros/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=portfolio&theme=vision-friendly-dark" />
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=portfolio&theme=vision-friendly-dark" />
 </a>
   <a href="https://github.com/devsarahmalheiros/Exercicios-em-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=Exercicios-em-Python&theme=vision-friendly-dark" />
+  <img align="center" width="40%"src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=Exercicios-em-Python&theme=vision-friendly-dark" />
 </a>
