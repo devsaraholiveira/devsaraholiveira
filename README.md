@@ -1,4 +1,4 @@
-## Oiii, eu sou a Sarah Malheiros, desenvolvedora web trainee!
+sou a Sarah Malheiros, desenvolvedora web trainee!
 <div align="center">
   <a href="https://github.com/devsarahmalheiros">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devsarahmalheiros&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -24,9 +24,12 @@
   ![Snake animation](https://github.com/sarahmalheiros/sarahmalheiros/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <div align="center"> 
 <a href="https://github.com/devsarahmalheiros/portfolio">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=portfolio&theme=vision-friendly-dark" />
 </a>
   <a href="https://github.com/devsarahmalheiros/Exercicios-em-Python">
   <img width="40%"src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=Exercicios-em-Python&theme=vision-friendly-dark" />
 </a>
+    </div> 
