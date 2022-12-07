@@ -17,10 +17,13 @@ Sou a Sarah Oliveira, desenvolvedora front-end júnior.
  <br>
 <div> 
   
-  <a href="https://instagram.com/sarahvampirona" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:devsarahmalheiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sarah-malheiros-b43616248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <br>
+  <a href="https://www.instagram.com/sarahliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Sarah Malheiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:devsarahmalheiros@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <br/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarahliveira&color=yellow" alt="Profile views" /> </p>
  
   ![Snake animation](https://github.com/sarahmalheiros/sarahmalheiros/blob/output/github-contribution-grid-snake.svg)
  
