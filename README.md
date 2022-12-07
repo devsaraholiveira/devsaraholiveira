@@ -1,4 +1,4 @@
-sou a Sarah Malheiros, desenvolvedora web trainee!
+Sou a Sarah Oliveira, desenvolvedora front-end júnior.
 <div align="center">
   <a href="https://github.com/devsarahmalheiros">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devsarahmalheiros&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
