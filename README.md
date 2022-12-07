@@ -4,13 +4,14 @@ Sou a Sarah Oliveira, desenvolvedora front-end júnior.
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devsarahmalheiros&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarahmalheiros&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-<div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
- 
+<div align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="PHP icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
  <br>
