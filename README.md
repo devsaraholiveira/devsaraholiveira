@@ -2,9 +2,9 @@
   <p><b>Sou a Sarah Oliveira, desenvolvedora front-end júnior. </b></p>
 </div>
 <div align="center">
-  <a href="https://github.com/devsarahmalheiros">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devsarahmalheiros&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarahmalheiros&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://github.com/devsaraholiveira">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devsaraholiveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsaraholiveira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
 <div align="center"> 
@@ -23,15 +23,15 @@
   
   <br>
   <a href="https://www.instagram.com/liveirasarah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Sarah Malheiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Sarah Oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:devsarahmalheiros@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <br>
    <div align="center"> 
      <br>
-<a href="https://github.com/devsarahmalheiros/portfolio">
+<a href="https://github.com/devsaraholiveira/portfolio">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=portfolio&theme=vision-friendly-dark" />
 </a>
-  <a href="https://github.com/devsarahmalheiros/Exercicios-em-Python">
+  <a href="https://github.com/devsaraholiveira/Exercicios-em-Python">
   <img width="40%"src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=Exercicios-em-Python&theme=vision-friendly-dark"/>
 </a>
     </div>
