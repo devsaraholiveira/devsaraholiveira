@@ -29,10 +29,10 @@
    <div align="center"> 
      <br>
 <a href="https://github.com/devsaraholiveira/portfolio">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=portfolio&theme=vision-friendly-dark" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=devsaraholiveira&repo=portfolio&theme=vision-friendly-dark" />
 </a>
   <a href="https://github.com/devsaraholiveira/Exercicios-em-Python">
-  <img width="40%"src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahmalheiros&repo=Exercicios-em-Python&theme=vision-friendly-dark"/>
+  <img width="40%"src="https://github-readme-stats.vercel.app/api/pin/?username=devsaraholiveira&repo=Exercicios-em-Python&theme=vision-friendly-dark"/>
 </a>
     </div>
   
