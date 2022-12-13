@@ -1,5 +1,5 @@
 <div align="center">
-  <p><b>Sou a Sarah Oliveira, desenvolvedora front-end júnior. </b></p>
+  <p><b>Sou a Sarah Oliveira, desenvolvedora front-end jr. </b></p>
 </div>
 <div align="center">
   <a href="https://github.com/devsaraholiveira">
